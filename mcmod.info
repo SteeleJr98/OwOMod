@@ -1,0 +1,16 @@
+[
+{
+  "modid": "om",
+  "name": "OwO Mod",
+  "description": "Adds some OwO items, armor, and tools.",
+  "version": "2.0.0",
+  "mcversion": "1.7.10",
+  "url": "extrabigsucc.com",
+  "updateUrl": "",
+  "authorList": ["SteeleJr98"],
+  "credits": "MrCrayfish, for making an amazing modding totorial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,23 @@
+item.owo.name=OwO
+item.doubleowo.name=Double OwO
+item.magicstick.name=Magic Stick
+item.uwu.name=UwU
+
+tile.face.name=Face
+tile.owore.name=OwOre
+
+item.star.name=Edible Star
+item.cookedstar.name=Cooked Star
+
+item.owopick.name=OwO Pickaxe
+item.owoaxe.name=OwO Axe
+item.owoshovel.name=OwO Shovel
+item.owohoe.name=OwO Hoe
+item.owosword.name=OwO Sword
+
+item.owohelmet.name=OwO Helmet
+item.owochestplate.name=OwO Chestplate
+item.owoleggings.name=OwO Leggings
+item.owoboots.name=OwO Boots
+
+itemGroup.tabOwOMod=OwO Mod
